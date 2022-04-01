@@ -1,17 +1,16 @@
 body {
   font-family: "ubuntu" Arial, sans-serif;
 }
-
-
 a {text-decoration: none;}
 ul {list-style: none;}
 
 .container {
-  width: 1240px;
+  width: 1440px;
   display: flex;
   justify-content: space-between;
   box-sizing: content-box;
-  padding: 0 60px ;
+  padding: 0 60px;
+  width: 100%;
  
 }
 

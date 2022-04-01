@@ -1,6 +1,8 @@
 main {
   margin: 0 auto;
+  width: 1440px;
 }
+
 
 .seção1 {
   background: url(../img/ilustra-banner.png) 100% 50% no-repeat;
@@ -150,7 +152,7 @@ main {
 }
 
 .box-model > div {
-  width: 319px;
+  width: 400px;
 }
 
 .box-model > div div {
@@ -166,8 +168,8 @@ main {
 .box-model p {
   font-size: 18px;
   font-weight: 400;
-  margin-bottom: 0;
   margin: 0;
+  width: 320px;
 }
 
 .box-model h3 {
