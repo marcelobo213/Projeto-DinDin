@@ -1,6 +1,6 @@
 main {
   margin: 0 auto;
-  width: 1440px;
+  
 }
 
 
@@ -90,11 +90,11 @@ main {
   margin: 0 auto;
   padding: 100px 0 155px 0;
   display: flex;
-  font-family: "nunito";
+
   justify-content: space-around;
   flex-wrap: wrap;
-  row-gap: 80px;
-  width: 110%;
+  gap: 80px;
+  width: 93%;
 }
 .seção03 h2 {
   font-weight: 700;
@@ -102,7 +102,7 @@ main {
   line-height: 50px;
   color: #009688;
   width: 100%;
-  margin: 0 0 0 119px;
+  margin: 0 0 0 28px;
 }
 
 .seção03 .icons {

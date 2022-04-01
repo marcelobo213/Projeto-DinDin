@@ -1,6 +1,7 @@
 main .container{
   justify-content: space-around;
   flex-flow: column;
+
    
 }
 
@@ -9,6 +10,9 @@ main .container{
 .conteudo {
     background: url(../img/ilustra-blog.png) 80% 50% no-repeat;
     padding: 100px 148px;
+    background-color: white;
+    
+    
 }
 
 .conteudo h1 {
@@ -29,9 +33,11 @@ main .container{
 
 .conteudos {
     display: flex;
-    padding: 109px 30px;
+    padding: 109px 85px;
     flex-wrap: wrap;
     gap: 120px;
+    background-color: #E5E5E5;
+   
 }
 
 .text h2 {
